@@ -615,3 +615,8 @@ a:focus {
       color: inherit; }
 
 /*# sourceMappingURL=style.css.map */
+
+#map-stats-container, #map-stats-container > * {
+  width: 1300px !important;
+  height: 700px !important;
+}
